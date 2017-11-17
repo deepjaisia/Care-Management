@@ -1,6 +1,8 @@
 # Care-Management
 
-Due to PHI I cannot share the actual code but I have included the screenshots of the application.
+Due to PHI I cannot share the actual code but I have included the screenshots of the application. I worked on the application as whole from the the front-end to the back-end and everything in between.
+
+(HTML5, SASS, CSS3, Angular4, MongoDB, NodeJS, ExpressJS, Azure Portal, Git, Jira)
 
 1. Web Application using Agile Methodology which is used by the ‘Care Givers’ to keep a record of all the prescribed patients. 
 2. Surveys were distributed using “Survey Monkey” and consists of a login systems for the physicians.
