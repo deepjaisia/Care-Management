@@ -1,4 +1,4 @@
-# Care-Management
+# CareManagement
 
 Due to PHI I cannot share the actual code but I have included the screenshots of the application. I worked on the application as whole from the the front-end to the back-end and everything in between.
 
