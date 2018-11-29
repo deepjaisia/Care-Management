@@ -1,6 +1,6 @@
 # CareManagement
 
-Due to PHI I cannot share the actual code but I have included the screenshots of the application. I worked on the application as whole from the the front-end to the back-end and everything in between.
+Due to PHI I cannot share the actual code but I have included the screenshots of the prototype of the application. I worked on the application as whole from the the front-end to the back-end and everything in between.
 
 (HTML5, SASS, CSS3, Angular4, MongoDB, NodeJS, ExpressJS, Azure Portal, Git, Jira)
 
